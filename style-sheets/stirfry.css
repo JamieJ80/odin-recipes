@@ -1,0 +1,30 @@
+/*text development*/
+body{
+    background-color: brown;
+    text-align: center;
+}
+div p{
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+}
+.ingredients.list, 
+.steps.list{
+    display: inline;
+    color: burlywood;
+}
+.ingredients, .steps{
+    color: darkgrey;
+}
+#title{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: azure;
+}
+/*Picture development*/
+img{
+    border-radius: 25px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
