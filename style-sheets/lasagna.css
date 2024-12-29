@@ -3,11 +3,11 @@ body{
     font-family: sans-serif;
 }
 img, figcaption{
-    margin-left: 35px;
+    margin-left: 37px;
     border-radius: 25px;
 }
-h1{
-    margin-left: 70px;
+h1{ 
+    margin-left: 73px;
 }
 .ingredients, .steps{
     color: brown ;
