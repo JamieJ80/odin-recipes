@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(150, 255, 150)
+}
+
+#peppers{
+    border-radius: 25px;
+}
+.sausage{
+    font-style: italic;
+}
+
+h1, .sausage{
+    color: burlywood;
+}
+
+p{
+    font-weight: bold;
+}
+
