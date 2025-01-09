@@ -8,6 +8,7 @@ img, figcaption{
 }
 h1{ 
     margin-left: 73px;
+    font-family: serif;
 }
 .ingredients, .steps{
     color: brown ;
