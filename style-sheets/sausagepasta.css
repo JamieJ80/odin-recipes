@@ -2,7 +2,7 @@ body{
     background-color: rgb(150, 255, 150)
 }
 
-#peppers{
+#peppers, .cumberland{
     border-radius: 25px;
 }
 .sausage{
