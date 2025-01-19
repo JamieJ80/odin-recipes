@@ -13,3 +13,9 @@ h1{
 .ingredients, .steps{
     color: brown ;
 }
+fieldset legend{
+    text-align: center;
+}
+fieldset, legend, input{
+    text-align: center;
+}
