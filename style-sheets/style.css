@@ -5,6 +5,13 @@ h1{
 li{
     font-size: 22px;
 }
+body{
+    background-color: darkkhaki;
+}
+img{
+    border-radius: 25px;
+}
+}
 .lasagna{
     color: black;
 }
