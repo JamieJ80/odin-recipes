@@ -1,9 +1,30 @@
 h1{
     background-color: green;
+    border: 1px solid burlywood;
     color: black;
+    width: 300px;
+    margin: auto;
+    padding: 5px;
+    border-radius: 15px;
+    text-align: center;
+}
+.heading-box{
+    background-color: brown;
+    border: 1px dotted black;
+    width: auto;
+    height: auto;
+    padding: 5px;
+    margin: 10px;
+    border-radius: 15px;
+    display: inline-block;
 }
 li{
     font-size: 22px;
+}
+.link-box{
+    border: 2px solid brown;
+    width: 250px;
+    margin: 50px;
 }
 body{
     background-color: darkkhaki;
