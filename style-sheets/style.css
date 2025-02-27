@@ -9,6 +9,8 @@ h1{
     text-align: center;
 }
 .heading-box{
+    box-sizing: border-box;
+    display: inline-flex;
     background-color: brown;
     border: 1px dotted black;
     width: auto;
@@ -16,23 +18,35 @@ h1{
     padding: 5px;
     margin: 50px;
     border-radius: 15px;
-    display: inline-block;
+}
+.suggest-box{
+    box-sizing: border-box;
+    display: inline-flex;
+    height: 300px;
+    width: 300px;
+    padding: 10px;
+    border: 3px solid black;
+    margin: 50px 50px 50px 250px;
+    text-align: center;
 }
 li{
     font-size: 22px;
 }
 .link-box{
+    box-sizing: border-box;
     border: 2px dotted brown;
     width: 250px;
-    margin: auto 50px 50px 50px;
+    margin: -200px 50px 50px 50px;
     border-top-left-radius: 15px;
     border-bottom-right-radius: 15px;
 }
+
 body{
     background-color: darkkhaki;
 }
 img{
     border-radius: 25px;
+    margin: 30px 30px auto 15px;
 }
 .lasagna{
     color: black;
