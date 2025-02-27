@@ -14,7 +14,7 @@ h1{
     width: auto;
     height: auto;
     padding: 5px;
-    margin: 10px;
+    margin: 50px;
     border-radius: 15px;
     display: inline-block;
 }
@@ -22,9 +22,11 @@ li{
     font-size: 22px;
 }
 .link-box{
-    border: 2px solid brown;
+    border: 2px dotted brown;
     width: 250px;
-    margin: 50px;
+    margin: auto 50px 50px 50px;
+    border-top-left-radius: 15px;
+    border-bottom-right-radius: 15px;
 }
 body{
     background-color: darkkhaki;
