@@ -2,26 +2,27 @@ h1{
     background-color: green;
     border: 1px solid burlywood;
     color: black;
-    width: 300px;
-    margin: auto;
+    width: auto;
+    margin: 5px;
     padding: 10px;
     border-radius: 15px;
     text-align: center;
 }
+.top{
+    display: flex;
+}
 .heading-box{
     box-sizing: border-box;
-    display: inline-flex;
     background-color: brown;
     border: 1px dotted black;
     width: auto;
-    height: auto;
+    height: 80px;
     padding: 5px;
     margin: 50px;
     border-radius: 15px;
 }
 .suggest-box{
     box-sizing: border-box;
-    display: inline-flex;
     height: 300px;
     width: 300px;
     padding: 10px;
